@@ -6,27 +6,215 @@
             "provinces": [
                 {
                     "name": "Balé",
-                    "capital": "Boromo"
+                    "capital": "Boromo",
+                    "municipalities": [
+                        {
+                            "name": "Bagassi",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Bana",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Boromo",
+                            "type": "urbaine"
+                        },
+                        {
+                            "name": "Fara",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Oury",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Pâ",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Pompoï",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Poura",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Siby",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Yaho",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "name": "Banwa",
-                    "capital": "Solenzo"
+                    "capital": "Solenzo",
+                    "municipalities": [
+                        {
+                            "name": "Balavé",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Kouka",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Sami",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Solenzo",
+                            "type": "urbaine"
+                        },
+                        {
+                            "name": "Tansila",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "name": "Kossi",
-                    "capital": "Nouna"
+                    "capital": "Nouna",
+                    "municipalities": [
+                        {
+                            "name": "Barani",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Bomborokuy",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Bourasso",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Djibasso",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Dokuy",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Doumbala",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Doumbala",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Kombori",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Madouba",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Nouna",
+                            "type": "urbaine"
+                        },
+                        {
+                            "name": "Sono",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "name": "Mouhoun",
-                    "capital": "Dédougou"
+                    "capital": "Dédougou",
+                    "municipalities": [
+                        {
+                            "name": "Bondokuy",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Dédougou",
+                            "type": "urbaine"
+                        },
+                        {
+                            "name": "Douroula",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Kona",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Ouarkoye",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Safané",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Tchériba",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "name": "Nayala",
-                    "capital": "Toma"
+                    "capital": "Toma",
+                    "municipalities": [
+                        {
+                            "name": "Gassan",
+                            "type": "rurale"
+                        },{
+                            "name": "Gossina",
+                            "type": "rurale"
+                        },{
+                            "name": "Kougny",
+                            "type": "rurale"
+                        },{
+                            "name": "Toma",
+                            "type": "urbaine"
+                        },{
+                            "name": "Yaba",
+                            "type": "rurale"
+                        },{
+                            "name": "Yé",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "name": "Sourou",
-                    "capital": "Tougan"
+                    "capital": "Tougan",
+                    "municipalities":[
+                        {
+                            "name": "Di",
+                            "type": "rurale"
+                        },{
+                            "name": "Gomboro",
+                            "type": "rurale"
+                        },{
+                            "name": "Kassoum",
+                            "type": "rurale"
+                        },{
+                            "name": "Kiembara",
+                            "type": "rurale"
+                        },{
+                            "name": "Lanfièra",
+                            "type": "rurale"
+                        },{
+                            "name": "Lankoué",
+                            "type": "rurale"
+                        },{
+                            "name": "Toéni",
+                            "type": "rurale"
+                        },{
+                            "name": "Tougan",
+                            "type": "rurale"
+                        }
+                    ]
                 }
             ]
         },

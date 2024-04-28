@@ -1,0 +1,249 @@
+{
+    "regions": [
+        {
+            "name": "Boucle du Mouhoun",
+            "provinces": [
+                {
+                    "name": "Balé",
+                    "capital": "Boromo"
+                },
+                {
+                    "name": "Banwa",
+                    "capital": "Solenzo"
+                },
+                {
+                    "name": "Kossi",
+                    "capital": "Nouna"
+                },
+                {
+                    "name": "Mouhoun",
+                    "capital": "Dédougou"
+                },
+                {
+                    "name": "Nayala",
+                    "capital": "Toma"
+                },
+                {
+                    "name": "Sourou",
+                    "capital": "Tougan"
+                }
+            ]
+        },
+        {
+            "name": "Cascades",
+            "provinces": [
+                {
+                    "name": "Comoé",
+                    "capital": "Banfora"
+                },
+                {
+                    "name": "Léraba",
+                    "capital": "Sindou"
+                }
+            ]
+        },
+        {
+            "name": "Centre",
+            "provinces": [
+                {
+                    "name": "Kadiogo",
+                    "capital": "Ouagadougou"
+                }
+            ]
+        },
+        {
+            "name": "Centre-Est",
+            "provinces": [
+                {
+                    "name": "Boulgou",
+                    "capital": "Tenkodogo"
+                },
+                {
+                    "name": "Koulpélogo",
+                    "capital": "Ouargaye"
+                },
+                {
+                    "name": "Kouritenga",
+                    "capital": "Koupéla"
+                }
+            ]
+        },
+        {
+            "name": "Centre-Nord",
+            "provinces": [
+                {
+                    "name": "Bam",
+                    "capital": "Kongodjan"
+                },
+                {
+                    "name": "Namentenga",
+                    "capital": "Boussouma"
+                },
+                {
+                    "name": "Sanmatenga",
+                    "capital": "Kaya"
+                }
+            ]
+        },
+        {
+            "name": "Centre-Ouest",
+            "provinces": [
+                {
+                    "name": "Boulkiemdé",
+                    "capital": "Koudougou"
+                },
+                {
+                    "name": "Sanguié",
+                    "capital": "Réo"
+                },
+                {
+                    "name": "Sissili",
+                    "capital": "Léo"
+                },
+                {
+                    "name": "Ziro",
+                    "capital": "Sapouy"
+                }
+            ]
+        },
+        {
+            "name": "Centre-Sud",
+            "provinces": [
+                {
+                    "name": "Bazèga",
+                    "capital": "Kombissiri"
+                },
+                {
+                    "name": "Nahouri",
+                    "capital": "Pô"
+                },
+                {
+                    "name": "Zoundwéogo",
+                    "capital": "Manga"
+                }
+            ]
+        },
+        {
+            "name": "Est",
+            "provinces": [
+                {
+                    "name": "Gnagna",
+                    "capital": "Bitta"
+                },
+                {
+                    "name": "Gourma",
+                    "capital": "Fada N'Gourma"
+                },
+                {
+                    "name": "Komondjari",
+                    "capital": "Gayeéri"
+                },
+                {
+                    "name": "Kompienga",
+                    "capital": "Pama"
+                },
+                {
+                    "name": "Tapoa",
+                    "capital": "Diapaga"
+                }
+            ]
+        },
+        {
+            "name": "Hauts-Bassins",
+            "provinces": [
+                {
+                    "name": "Houet",
+                    "capital": "Bobo-Dioulasso"
+                },
+                {
+                    "name": "Kénédougou",
+                    "capital": "Orodara"
+                },
+                {
+                    "name": "Tuy",
+                    "capital": "Houndé"
+                }
+            ]
+        },
+        {
+            "name": "Nord",
+            "provinces": [
+                {
+                    "name": "Loroum",
+                    "capital": "Titao"
+                },
+                {
+                    "name": "Passoré",
+                    "capital": "Yako"
+                },
+                {
+                    "name": "Yatenga",
+                    "capital": "Ouahigouya"
+                },
+                {
+                    "name": "Zondoma",
+                    "capital": "Gourcy"
+                }
+            ]
+        },
+        {
+            "name": "Plateau-Central",
+            "provinces": [
+                {
+                    "name": "Ganzourgou",
+                    "capital": "Zorgho"
+                },
+                {
+                    "name": "Kourwéogo",
+                    "capital": "Boussé"
+                },
+                {
+                    "name": "Oubritenga",
+                    "capital": "Ziniaré"
+                }
+            ]
+        },
+        {
+            "name": "Sahel",
+            "provinces": [
+                {
+                    "name": "Oudalan",
+                    "capital": "Gorom-Gorom"
+                },
+                {
+                    "name": "Séno",
+                    "capital": "Dori"
+                },
+                {
+                    "name": "Soum",
+                    "capital": "Djibo"
+                },
+                {
+                    "name": "Yagha",
+                    "capital": "Séguéla"
+                }
+            ]
+        },
+        {
+            "name": "Sud-Ouest",
+            "provinces": [
+                {
+                    "name": "Bougouriba",
+                    "capital": "Diébougou"
+                },
+                {
+                    "name": "Ioba",
+                    "capital": "Dano"
+                },
+                {
+                    "name": "Noumbiel",
+                    "capital": "Biriwa"
+                },
+                {
+                    "name": "Poni",
+                    "capital": "Gaoua"
+                }
+            ]
+        }
+    ]
+}

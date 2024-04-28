@@ -1,6 +1,7 @@
 {
     "regions": [
         {
+            "capital": "Dédougou",
             "name": "Boucle du Mouhoun",
             "provinces": [
                 {
@@ -31,6 +32,7 @@
         },
         {
             "name": "Cascades",
+            "capital": "Banfora",
             "provinces": [
                 {
                     "name": "Comoé",
@@ -44,6 +46,7 @@
         },
         {
             "name": "Centre",
+            "capital": "Ouagadougou",
             "provinces": [
                 {
                     "name": "Kadiogo",
@@ -53,6 +56,7 @@
         },
         {
             "name": "Centre-Est",
+            "capital": "Tenkodogo",
             "provinces": [
                 {
                     "name": "Boulgou",
@@ -70,14 +74,15 @@
         },
         {
             "name": "Centre-Nord",
+            "capital": "Kaya",
             "provinces": [
                 {
                     "name": "Bam",
-                    "capital": "Kongodjan"
+                    "capital": "Kongoussi"
                 },
                 {
                     "name": "Namentenga",
-                    "capital": "Boussouma"
+                    "capital": "Boulsa"
                 },
                 {
                     "name": "Sanmatenga",
@@ -87,6 +92,7 @@
         },
         {
             "name": "Centre-Ouest",
+            "capital": "Koudougou",
             "provinces": [
                 {
                     "name": "Boulkiemdé",
@@ -108,6 +114,7 @@
         },
         {
             "name": "Centre-Sud",
+            "capital": "Manga",
             "provinces": [
                 {
                     "name": "Bazèga",
@@ -125,10 +132,11 @@
         },
         {
             "name": "Est",
+            "capital": "Fada N'Gourma",
             "provinces": [
                 {
                     "name": "Gnagna",
-                    "capital": "Bitta"
+                    "capital": "Bogandé"
                 },
                 {
                     "name": "Gourma",
@@ -136,7 +144,7 @@
                 },
                 {
                     "name": "Komondjari",
-                    "capital": "Gayeéri"
+                    "capital": "Gayéri"
                 },
                 {
                     "name": "Kompienga",
@@ -150,6 +158,7 @@
         },
         {
             "name": "Hauts-Bassins",
+            "capital": "Bobo-Dioulasso",
             "provinces": [
                 {
                     "name": "Houet",
@@ -167,6 +176,7 @@
         },
         {
             "name": "Nord",
+            "capital": "Ouahigouya",
             "provinces": [
                 {
                     "name": "Loroum",
@@ -188,6 +198,7 @@
         },
         {
             "name": "Plateau-Central",
+            "capital": "Ziniaré",
             "provinces": [
                 {
                     "name": "Ganzourgou",
@@ -205,6 +216,7 @@
         },
         {
             "name": "Sahel",
+            "capital": "Dori",
             "provinces": [
                 {
                     "name": "Oudalan",
@@ -220,12 +232,13 @@
                 },
                 {
                     "name": "Yagha",
-                    "capital": "Séguéla"
+                    "capital": "Sebba"
                 }
             ]
         },
         {
             "name": "Sud-Ouest",
+            "capital": "Gaoua",
             "provinces": [
                 {
                     "name": "Bougouriba",
@@ -237,7 +250,7 @@
                 },
                 {
                     "name": "Noumbiel",
-                    "capital": "Biriwa"
+                    "capital": "Batié"
                 },
                 {
                     "name": "Poni",

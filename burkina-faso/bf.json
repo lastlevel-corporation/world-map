@@ -315,7 +315,31 @@
             "provinces": [
                 {
                     "name": "Kadiogo",
-                    "capital": "Ouagadougou"
+                    "capital": "Ouagadougou",
+                    "municipalities":[
+                         {
+                            "name": "Komki-Ipala",
+                            "type": "rurale"
+                        },{
+                            "name": "Komsilga",
+                            "type": "rurale"
+                        },{
+                            "name": "Koubri",
+                            "type": "rurale"
+                        },{
+                            "name": "Ouagadougou",
+                            "type": "urbaine"
+                        },{
+                            "name": "Pabré",
+                            "type": "rurale"
+                        },{
+                            "name": "Saaba",
+                            "type": "rurale"
+                        },{
+                            "name": "Tanghin-Dassouri",
+                            "type": "rurale"
+                        }
+                    ]
                 }
             ]
         },

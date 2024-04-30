@@ -642,7 +642,55 @@
             "provinces": [
                 {
                     "name": "Boulkiemdé",
-                    "capital": "Koudougou"
+                    "capital": "Koudougou",
+                    "municipalities": [
+                        {
+                            "name": "Bingo",
+                            "type": "rurale"
+                        },{
+                            "name": "Imasgo",
+                            "type": "rurale"
+                        },{
+                            "name": "Kindi",
+                            "type": "rurale"
+                        },{
+                            "name": "Kokologho",
+                            "type": "rurale"
+                        },{
+                            "name": "Koudougou",
+                            "type": "urbaine"
+                        },{
+                            "name": "Nanoro",
+                            "type": "rurale"
+                        },{
+                            "name": "Nandiala",
+                            "type": "rurale"
+                        },{
+                            "name": "Pella",
+                            "type": "rurale"
+                        },{
+                            "name": "Poa",
+                            "type": "rurale"
+                        },{
+                            "name": "Ramongo",
+                            "type": "rurale"
+                        },{
+                            "name": "Sabou",
+                            "type": "rurale"
+                        },{
+                            "name": "Siglé",
+                            "type": "rurale"
+                        },{
+                            "name": "Soaw",
+                            "type": "rurale"
+                        },{
+                            "name": "Sourgou",
+                            "type": "rurale"
+                        },{
+                            "name": "Thyou",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "name": "Sanguié",

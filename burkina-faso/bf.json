@@ -349,15 +349,113 @@
             "provinces": [
                 {
                     "name": "Boulgou",
-                    "capital": "Tenkodogo"
+                    "capital": "Tenkodogo",
+                    "municipalities": [
+                        {
+                            "name": "Bagré",
+                            "type": "rurale"
+                        },{
+                            "name": "Bané",
+                            "type": "rurale"
+                        },{
+                            "name": "Béguédo",
+                            "type": "rurale"
+                        },{
+                            "name": "Bissiga",
+                            "type": "rurale"
+                        },{
+                            "name": "Bittou",
+                            "type": "urbaine"
+                        },{
+                            "name": "Boussouma",
+                            "type": "rurale"
+                        },{
+                            "name": "Garango",
+                            "type": "urbaine"
+                        },{
+                            "name": "Komtoèga",
+                            "type": "rurale"
+                        },{
+                            "name": "Niaogho",
+                            "type": "rurale"
+                        },{
+                            "name": "Tenkodogo",
+                            "type": "urbaine"
+                        },{
+                            "name": "Zabré",
+                            "type": "rurale"
+                        },{
+                            "name": "Zoaga",
+                            "type": "rurale"
+                        },{
+                            "name": "Zonsé",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "name": "Koulpélogo",
-                    "capital": "Ouargaye"
+                    "capital": "Ouargaye",
+                    "municipalities": [
+                        {
+                            "name": "Comin-Yanga",
+                            "type": "rurale"
+                        },{
+                            "name": "Dourtenga",
+                            "type": "rurale"
+                        },{
+                            "name": "Lalgaye",
+                            "type": "rurale"
+                        },{
+                            "name": "Ouargaye",
+                            "type": "urbaine"
+                        },{
+                            "name": "Sangha",
+                            "type": "rurale"
+                        },{
+                            "name": "Soudougui",
+                            "type": "rurale"
+                        },{
+                            "name": "Yargatenga",
+                            "type": "rurale"
+                        },{
+                            "name": "Yondé",
+                            "type": "rurale"
+                        }]
                 },
                 {
                     "name": "Kouritenga",
-                    "capital": "Koupéla"
+                    "capital": "Koupéla",
+                     "municipalities": [
+                         {
+                            "name": "Andemtenga",
+                            "type": "rurale"
+                        },{
+                            "name": "Baskouré",
+                            "type": "rurale"
+                        },{
+                            "name": "Dialgaye",
+                            "type": "rurale"
+                        },{
+                            "name": "Gounghin",
+                            "type": "rurale"
+                        },{
+                            "name": "Kando",
+                            "type": "rurale"
+                        },{
+                            "name": "Koupéla",
+                            "type": "urbaine"
+                        },{
+                            "name": "Pouytenga",
+                            "type": "urbaine"
+                        },{
+                            "name": "Tensobentenga",
+                            "type": "rurale"
+                        },{
+                            "name": "Yargo",
+                            "type": "rurale"
+                        }
+                     ]
                 }
             ]
         },

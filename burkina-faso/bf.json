@@ -167,19 +167,24 @@
                         {
                             "name": "Gassan",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Gossina",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Kougny",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Toma",
                             "type": "urbaine"
-                        },{
+                        },
+                        {
                             "name": "Yaba",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Yé",
                             "type": "rurale"
                         }
@@ -188,29 +193,36 @@
                 {
                     "name": "Sourou",
                     "capital": "Tougan",
-                    "municipalities":[
+                    "municipalities": [
                         {
                             "name": "Di",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Gomboro",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Kassoum",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Kiembara",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Lanfièra",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Lankoué",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Toéni",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Tougan",
                             "type": "rurale"
                         }
@@ -224,11 +236,76 @@
             "provinces": [
                 {
                     "name": "Comoé",
-                    "capital": "Banfora"
+                    "capital": "Banfora",
+                    "municipalities": [
+                        {
+                            "name": "Banfora",
+                            "type": "urbaine"
+                        },
+                        {
+                            "name": "Bérégadougou",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Mangodara",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Moussodougou",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Niangoloko",
+                            "type": "urbaine"
+                        },
+                        {
+                            "name": "Ouo",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Sidéradougou",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Soubakaniédougou",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Tiéfora",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "name": "Léraba",
-                    "capital": "Sindou"
+                    "capital": "Sindou",
+                     "municipalities": [
+                         {
+                            "name": "Dakoro",
+                            "type": "rurale"
+                        },{
+                            "name": "Douna",
+                            "type": "rurale"
+                        },{
+                            "name": "Kankalaba",
+                            "type": "rurale"
+                        },{
+                            "name": "Loumana",
+                            "type": "rurale"
+                        },{
+                            "name": "Niankorodougou",
+                            "type": "rurale"
+                        },{
+                            "name": "Ouéléni",
+                            "type": "rurale"
+                        },{
+                            "name": "Sindou",
+                            "type": "urbaine"
+                        },{
+                            "name": "Wolonkoto",
+                            "type": "rurale"
+                        }
+                     ]
                 }
             ]
         },

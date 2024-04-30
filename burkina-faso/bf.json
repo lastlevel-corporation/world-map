@@ -279,33 +279,40 @@
                 {
                     "name": "Léraba",
                     "capital": "Sindou",
-                     "municipalities": [
-                         {
+                    "municipalities": [
+                        {
                             "name": "Dakoro",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Douna",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Kankalaba",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Loumana",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Niankorodougou",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Ouéléni",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Sindou",
                             "type": "urbaine"
-                        },{
+                        },
+                        {
                             "name": "Wolonkoto",
                             "type": "rurale"
                         }
-                     ]
+                    ]
                 }
             ]
         },
@@ -316,26 +323,32 @@
                 {
                     "name": "Kadiogo",
                     "capital": "Ouagadougou",
-                    "municipalities":[
-                         {
+                    "municipalities": [
+                        {
                             "name": "Komki-Ipala",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Komsilga",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Koubri",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Ouagadougou",
                             "type": "urbaine"
-                        },{
+                        },
+                        {
                             "name": "Pabré",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Saaba",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Tanghin-Dassouri",
                             "type": "rurale"
                         }
@@ -354,40 +367,52 @@
                         {
                             "name": "Bagré",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Bané",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Béguédo",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Bissiga",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Bittou",
                             "type": "urbaine"
-                        },{
+                        },
+                        {
                             "name": "Boussouma",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Garango",
                             "type": "urbaine"
-                        },{
+                        },
+                        {
                             "name": "Komtoèga",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Niaogho",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Tenkodogo",
                             "type": "urbaine"
-                        },{
+                        },
+                        {
                             "name": "Zabré",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Zoaga",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Zonsé",
                             "type": "rurale"
                         }
@@ -400,62 +425,78 @@
                         {
                             "name": "Comin-Yanga",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Dourtenga",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Lalgaye",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Ouargaye",
                             "type": "urbaine"
-                        },{
+                        },
+                        {
                             "name": "Sangha",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Soudougui",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Yargatenga",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Yondé",
                             "type": "rurale"
-                        }]
+                        }
+                    ]
                 },
                 {
                     "name": "Kouritenga",
                     "capital": "Koupéla",
-                     "municipalities": [
-                         {
+                    "municipalities": [
+                        {
                             "name": "Andemtenga",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Baskouré",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Dialgaye",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Gounghin",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Kando",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Koupéla",
                             "type": "urbaine"
-                        },{
+                        },
+                        {
                             "name": "Pouytenga",
                             "type": "urbaine"
-                        },{
+                        },
+                        {
                             "name": "Tensobentenga",
                             "type": "rurale"
-                        },{
+                        },
+                        {
                             "name": "Yargo",
                             "type": "rurale"
                         }
-                     ]
+                    ]
                 }
             ]
         },
@@ -465,15 +506,133 @@
             "provinces": [
                 {
                     "name": "Bam",
-                    "capital": "Kongoussi"
+                    "capital": "Kongoussi",
+                    "municipalities": [
+                        {
+                            "name": "Bourzanga",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Guibaré",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Kongoussi",
+                            "type": "urbaine"
+                        },
+                        {
+                            "name": "Nasséré",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Rollo",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Rouko",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Sabcé",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Tikaré",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Zimtenga",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "name": "Namentenga",
-                    "capital": "Boulsa"
+                    "capital": "Boulsa",
+                    "municipalities": [
+                        {
+                            "name": "Boala",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Boulsa",
+                            "type": "urbaine"
+                        },
+                        {
+                            "name": "Bouroum",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Dargo",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Nagbingou",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Tougouri",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Yalgo",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Zéguédéguin",
+                            "type": "rurale"
+                        }
+                    ]
                 },
                 {
                     "name": "Sanmatenga",
-                    "capital": "Kaya"
+                    "capital": "Kaya",
+                    "municipalities": [
+                        {
+                            "name": "Barsalogho",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Boussouma",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Dablo",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Kaya",
+                            "type": "urbaine"
+                        },
+                        {
+                            "name": "Korsimoro",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Mané",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Namissiguima",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Pensa",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Pibaoré",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Pissila",
+                            "type": "rurale"
+                        },
+                        {
+                            "name": "Ziga",
+                            "type": "rurale"
+                        }
+                    ]
                 }
             ]
         },
